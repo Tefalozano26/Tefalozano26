@@ -3,11 +3,10 @@
 <img height="10%" align="right" src="https://github.com/Tefalozano26/Tefalozano26/blob/main/Banner.jpg" />
 
 
-Welcome to my Github page! <img align="right" src="https://komarev.com/ghpvc/?username=Tefalozano26">
+🟣 Welcome to my Github page! <img align="right" src="https://komarev.com/ghpvc/?username=Tefalozano26">
 
-## ⭐🏄‍♀️ About me: 
+## ✨🏄‍♀️ About me: 
 I'm Computer Science Engineer who is passionate about creating open-source code and right now I'm currently working as a Freelance Web Developer
-
 
 
 
