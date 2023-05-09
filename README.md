@@ -3,12 +3,12 @@
 
 
 
-Welcome to my Github page! 
+Welcome to my Github page! <img align="right" src="https://komarev.com/ghpvc/?username=Tefalozano26">
 
 ## ⭐🏄‍♀️ About me: 
 I'm Computer Science Engineer who is passionate about creating open-source code and right now I'm currently working as a Freelance Web Developer
 
-<!--img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" / -->
+<img align="right" alt="img" src="https://github.com/Tefalozano26/Tefalozano26/blob/main/Banner.jpg" height="20%" / >
 
 
  
@@ -38,3 +38,4 @@ I'm Computer Science Engineer who is passionate about creating open-source code 
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21858591/estefany-lozano?tab=profile)
 
 
+ 
