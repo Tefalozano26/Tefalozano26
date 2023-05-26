@@ -1,6 +1,6 @@
 ## Hi there, This is Estefany Lozano! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> :woman_technologist: 
 
-<img height="10%" align="right" src="https://github.com/Tefalozano26/Tefalozano26/blob/main/Banner.jpg" />
+<img height="11%" align="right" src="https://github.com/Tefalozano26/Tefalozano26/blob/main/Banner.jpg" />
 
 
 🟣 Welcome to my Github page! <img align="right" src="https://komarev.com/ghpvc/?username=Tefalozano26">
